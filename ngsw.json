@@ -24,7 +24,7 @@
         "/my-app/assets/icon-512x512.png"
       ],
       "patterns": [
-        "https:\\/\\/cataas\\.com\\/"
+        "https:\\/\\/cataas\\.com\\/cat\\/says\\/"
       ]
     }
   ],
