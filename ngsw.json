@@ -1,0 +1,57 @@
+{
+  "configVersion": 1,
+  "index": "/my-app/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/my-app/favicon.ico",
+        "/my-app/index.html"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/my-app/assets/css/app-theme.scss",
+        "/my-app/assets/icon-128x128.png",
+        "/my-app/assets/icon-152x152.png",
+        "/my-app/assets/icon-256x256.png",
+        "/my-app/assets/icon-512x512.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/my-app/assets/css/app-theme.scss": "d458e0a30c9dbb7c3b9dd151cf9ab7ec39d8d103",
+    "/my-app/assets/icon-128x128.png": "7b2ff366fc3a695555650c8f44aff7f5eab8dd04",
+    "/my-app/assets/icon-152x152.png": "daaf39515438a27698c740b82c010dfa1ec2f997",
+    "/my-app/assets/icon-256x256.png": "92db1e1d10d784aeec966d4cff3024af8caf4ae0",
+    "/my-app/assets/icon-512x512.png": "daaf39515438a27698c740b82c010dfa1ec2f997",
+    "/my-app/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/my-app/index.html": "d8669b8770668988a80ef1792641739ca7097036"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
