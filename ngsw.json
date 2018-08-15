@@ -18,10 +18,14 @@
       "updateMode": "prefetch",
       "urls": [
         "/my-app/assets/css/app-theme.scss",
-        "/my-app/assets/icon-128x128.png",
-        "/my-app/assets/icon-152x152.png",
-        "/my-app/assets/icon-256x256.png",
-        "/my-app/assets/icon-512x512.png"
+        "/my-app/assets/icons/icon-128x128.png",
+        "/my-app/assets/icons/icon-144x144.png",
+        "/my-app/assets/icons/icon-152x152.png",
+        "/my-app/assets/icons/icon-192x192.png",
+        "/my-app/assets/icons/icon-384x384.png",
+        "/my-app/assets/icons/icon-512x512.png",
+        "/my-app/assets/icons/icon-72x72.png",
+        "/my-app/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
@@ -29,12 +33,16 @@
   "dataGroups": [],
   "hashTable": {
     "/my-app/assets/css/app-theme.scss": "d458e0a30c9dbb7c3b9dd151cf9ab7ec39d8d103",
-    "/my-app/assets/icon-128x128.png": "7b2ff366fc3a695555650c8f44aff7f5eab8dd04",
-    "/my-app/assets/icon-152x152.png": "daaf39515438a27698c740b82c010dfa1ec2f997",
-    "/my-app/assets/icon-256x256.png": "92db1e1d10d784aeec966d4cff3024af8caf4ae0",
-    "/my-app/assets/icon-512x512.png": "daaf39515438a27698c740b82c010dfa1ec2f997",
+    "/my-app/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/my-app/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/my-app/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/my-app/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/my-app/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/my-app/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/my-app/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/my-app/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/my-app/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/my-app/index.html": "d8669b8770668988a80ef1792641739ca7097036"
+    "/my-app/index.html": "9637df14f80b71e7820a1cd430afe0285af86964"
   },
   "navigationUrls": [
     {
