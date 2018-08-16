@@ -18,23 +18,31 @@
       "updateMode": "prefetch",
       "urls": [
         "/my-app/assets/css/app-theme.scss",
-        "/my-app/assets/icon-128x128.png",
-        "/my-app/assets/icon-152x152.png",
-        "/my-app/assets/icon-256x256.png",
-        "/my-app/assets/icon-512x512.png"
+        "/my-app/assets/icons/icon-128x128.png",
+        "/my-app/assets/icons/icon-144x144.png",
+        "/my-app/assets/icons/icon-152x152.png",
+        "/my-app/assets/icons/icon-192x192.png",
+        "/my-app/assets/icons/icon-384x384.png",
+        "/my-app/assets/icons/icon-512x512.png",
+        "/my-app/assets/icons/icon-72x72.png",
+        "/my-app/assets/icons/icon-96x96.png"
       ],
       "patterns": [
-        "https:\\/\\/cataas\\.com\\/cat\\/says\\/"
+        "https:\\/\\/cataas\\.com\\/.*"
       ]
     }
   ],
   "dataGroups": [],
   "hashTable": {
     "/my-app/assets/css/app-theme.scss": "d458e0a30c9dbb7c3b9dd151cf9ab7ec39d8d103",
-    "/my-app/assets/icon-128x128.png": "7b2ff366fc3a695555650c8f44aff7f5eab8dd04",
-    "/my-app/assets/icon-152x152.png": "daaf39515438a27698c740b82c010dfa1ec2f997",
-    "/my-app/assets/icon-256x256.png": "92db1e1d10d784aeec966d4cff3024af8caf4ae0",
-    "/my-app/assets/icon-512x512.png": "daaf39515438a27698c740b82c010dfa1ec2f997",
+    "/my-app/assets/icons/icon-128x128.png": "0eaa0ffb26bdda5838ce062f320bb5efac70bb4a",
+    "/my-app/assets/icons/icon-144x144.png": "6b83578b3b98bc063435c9a437910ebfedb86470",
+    "/my-app/assets/icons/icon-152x152.png": "daaf39515438a27698c740b82c010dfa1ec2f997",
+    "/my-app/assets/icons/icon-192x192.png": "9390eafd0ff1330fa0fab48fb0fc587138c9eedb",
+    "/my-app/assets/icons/icon-384x384.png": "a1c0e669a78aece18fc520345d731b4f38c7c4b2",
+    "/my-app/assets/icons/icon-512x512.png": "ca3386ffc2a8675f4d150b3ac64e3cbad92ae481",
+    "/my-app/assets/icons/icon-72x72.png": "bcce739a2b2b2852da3a696c162a8ed2002d3541",
+    "/my-app/assets/icons/icon-96x96.png": "a1eeeae291d936b63612770cb7a6dc758e202781",
     "/my-app/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
     "/my-app/index.html": "9637df14f80b71e7820a1cd430afe0285af86964"
   },
